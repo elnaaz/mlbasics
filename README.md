@@ -11,6 +11,7 @@ https://www.springboard.com/blog/machine-learning-interview-questions/
 
 https://www.multisoftvirtualacademy.com/blog/15-essential-machine-learning-interview-questions-with-answers/
 
+https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer 
 
 
 https://blog.udacity.com/2016/05/prepare-machine-learning-interview.html
